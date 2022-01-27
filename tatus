@@ -1,0 +1,23 @@
+[33mcommit 9b1c202db492a2fc0a8d1d38cbe7b83fff701600[m[33m ([m[1;36mHEAD -> [m[1;32mdefault[m[33m, [m[1;31mheroku/default[m[33m)[m
+Author: sandoval0992 <srji0992@gmail.com>
+Date:   Mon Jan 24 23:05:33 2022 -0600
+
+    Production script updated
+
+[33mcommit 20f690272f37dced083363261b90d435d957a332[m[33m ([m[1;31morigin/default[m[33m)[m
+Author: sandoval0992 <srji0992@gmail.com>
+Date:   Sun Jan 23 23:09:20 2022 -0600
+
+    App preparation for deployment
+
+[33mcommit e53a2d836024dad9322614dcec41d0c646ff2ec3[m
+Author: sandoval0992 <srji0992@gmail.com>
+Date:   Sun Jan 23 21:58:51 2022 -0600
+
+    Added readme.md file
+
+[33mcommit decea3d1b514297a71700da9421c394c6ab8c03c[m
+Author: sandoval0992 <srji0992@gmail.com>
+Date:   Sun Jan 23 21:36:37 2022 -0600
+
+    Initial commit
