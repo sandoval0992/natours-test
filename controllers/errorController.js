@@ -45,7 +45,8 @@ const sendErrorDev = (err, req, res) => {
 };
 
 const sendErrorProd = (err, req, res) => {
-  console.log(`Prod Error: ${err}`);
+  console.log(`Prod Error:`);
+  console.log(err);
   //Back-end error handler
   if (req.originalUrl.startsWith("/api")) {
     //known error
